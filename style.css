@@ -1,0 +1,12 @@
+body {background-color: rgb(109, 196, 109);}
+
+h1 {font-size: medium;}
+
+#banner {
+    width: 10cm;
+    height:auto;
+}
+
+p {text-align: justify;}
+
+em strong { color: black;}
